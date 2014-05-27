@@ -1,0 +1,4 @@
+DomReadyExample
+===============
+
+PureJavaScript DomReady Example
